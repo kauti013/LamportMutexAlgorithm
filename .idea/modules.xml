@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/LamportServer/src/LamportServer.iml" filepath="$PROJECT_DIR$/LamportServer/src/LamportServer.iml" />
+      <module fileurl="file://$PROJECT_DIR$/LamportServer2/src/LamportServer2.iml" filepath="$PROJECT_DIR$/LamportServer2/src/LamportServer2.iml" />
+      <module fileurl="file://$PROJECT_DIR$/LamportServer3/src/LamportServer3.iml" filepath="$PROJECT_DIR$/LamportServer3/src/LamportServer3.iml" />
+      <module fileurl="file://$PROJECT_DIR$/lamportNew/src/lamportNew.iml" filepath="$PROJECT_DIR$/lamportNew/src/lamportNew.iml" />
+    </modules>
+  </component>
+</project>
